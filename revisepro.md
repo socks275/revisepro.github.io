@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Quizlet Hub - Global Revision Sets
-permalink: /revisepro/
+permalink: /
 ---
 
 <!DOCTYPE html>
