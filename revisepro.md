@@ -1,6 +1,9 @@
-layout: page
-title: revisepro
-permalink:  https://socks275.github.io
+---
+layout: default
+title: Quizlet Hub - Global Revision Sets
+permalink: /revisepro/
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
