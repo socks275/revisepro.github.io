@@ -1,9 +1,3 @@
----
-layout: default
-title: Quizlet Hub - Global Revision Sets
-permalink: /
----
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
