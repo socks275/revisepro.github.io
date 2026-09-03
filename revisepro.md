@@ -1,6 +1,6 @@
 layout: page
 title: revisepro
-permalink:  https://socks275.github.io/flash/cards
+permalink:  https://socks275.github.io
 <!DOCTYPE html>
 <html lang="en">
 <head>
